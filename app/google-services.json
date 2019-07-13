@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836832489382",
+    "firebase_url": "https://bmscecanteenapp2.firebaseio.com",
+    "project_id": "bmscecanteenapp2",
+    "storage_bucket": "bmscecanteenapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836832489382:android:6ef294b87e5da5f8",
+        "android_client_info": {
+          "package_name": "myapp.dell.example.android.bmscecanteenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836832489382-mehtn0qli4o4sb1m9jfu2qafh0jfc6fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myapp.dell.example.android.bmscecanteenapp",
+            "certificate_hash": "5f313d5ed9f723211a0a3ef95737b89efa62b4fb"
+          }
+        },
+        {
+          "client_id": "836832489382-2c09l26ckab1p8qknfinupi6iok02bhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAymG4Xf8U_WfLJjB6M8T4ogTxIXGV4YMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836832489382-2c09l26ckab1p8qknfinupi6iok02bhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
